@@ -1,2 +1,2 @@
 # Java_bmstu
-OOP course in Java 
+OOP course on Java 
