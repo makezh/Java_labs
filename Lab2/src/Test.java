@@ -3,6 +3,7 @@ import java.util.stream.IntStream;
 /*
                                      ЗАДАНИЕ
     Класс треугольников в трёхмерном пространстве с операцией вычисления площади.
+    
 */
 
 public class Test {
