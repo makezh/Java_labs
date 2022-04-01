@@ -1,6 +1,14 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+
+/*
+                          ЗАДАНИЕ
+      Выбранная пользователем грань игральной кости
+    (сторона грани – a, радиус «точки» на грани – a=10).
+
+*/
+
 public class Main extends JFrame implements ActionListener {
     private Dice die;
     public Main() {
