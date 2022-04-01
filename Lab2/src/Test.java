@@ -1,5 +1,10 @@
 import java.util.stream.IntStream;
 
+/*
+                                     ЗАДАНИЕ
+    Класс треугольников в трёхмерном пространстве с операцией вычисления площади.
+*/
+
 public class Test {
     public static void main(String [] args) {
         Point point1 = new Point(0, 2, 0);
